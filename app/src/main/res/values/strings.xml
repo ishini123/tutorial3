@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FirstActivity</string>
+    <string name="msg3">+</string>
+    <string name="msg4">-</string>
+    <string name="msg5">x</string>
+    <string name="msg6">/</string>
+</resources>
